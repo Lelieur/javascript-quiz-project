@@ -24,7 +24,6 @@ class Question {
         }
 
         return randomChoices;
-
     }
 }
 
